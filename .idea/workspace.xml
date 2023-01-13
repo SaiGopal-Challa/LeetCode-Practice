@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3bb323d-746b-418c-87e9-6f4ac91d2ff7" name="Changes" comment="1st commit">
+    <list default="true" id="a3bb323d-746b-418c-87e9-6f4ac91d2ff7" name="Changes" comment="2nd commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q367_ValidPerfectSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q367_ValidPerfectSquare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +52,23 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q680_ValidPalindrome2">
+  <component name="RunManager" selected="Application.Q1137_NthTribonacciNumber">
+    <configuration name="Q1137_NthTribonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1137_NthTribonacciNumber" />
+      <module name="LeetCode-Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Q125_ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q125_ValidPalindrome" />
+      <module name="LeetCode-Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q509_FibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q509_FibonacciNumber" />
       <module name="LeetCode-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,6 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1137_NthTribonacciNumber" />
+        <item itemvalue="Application.Q509_FibonacciNumber" />
         <item itemvalue="Application.Q680_ValidPalindrome2" />
         <item itemvalue="Application.Q125_ValidPalindrome" />
       </list>
@@ -84,6 +99,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673352882550</updated>
     </task>
+    <task id="LOCAL-00001" summary="2nd commit">
+      <created>1673525764261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673525764261</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,5 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2nd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd commit" />
   </component>
 </project>

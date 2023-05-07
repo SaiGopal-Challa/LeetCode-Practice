@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3bb323d-746b-418c-87e9-6f4ac91d2ff7" name="Changes" comment="4th commit.">
+    <list default="true" id="a3bb323d-746b-418c-87e9-6f4ac91d2ff7" name="Changes" comment="5th commit.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q213_HouseRober2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q213_HouseRober2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q509_FibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q509_FibonacciNumber" />
+    <configuration name="Q55_JumpGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q55_JumpGame" />
       <module name="LeetCode-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,10 +93,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Q55_JumpGame" />
         <item itemvalue="Application.Q746_MinCostClimbingStairs" />
         <item itemvalue="Application.Q70_ClimbingStairs" />
         <item itemvalue="Application.Q1137_NthTribonacciNumber" />
-        <item itemvalue="Application.Q509_FibonacciNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673685940899</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="5th commit.">
+      <created>1674114452707</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674114452707</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +155,17 @@
     <MESSAGE value="2nd commit" />
     <MESSAGE value="3rd commit." />
     <MESSAGE value="4th commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="4th commit." />
+    <MESSAGE value="5th commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="5th commit." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -4,9 +4,9 @@ public class Q213_HouseRober2 {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         System.out.println("enter array of amounts in each house:");
-        int[] b = new int[]{reader.nextInt()};
+        //int[] b = new int[]{reader.nextInt()};
         reader.close();
-        System.out.println(rob(b));
+        //System.out.println(rob(b));
     }
     public static int rob(int[] nums){
         int n = nums.length;

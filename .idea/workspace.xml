@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3bb323d-746b-418c-87e9-6f4ac91d2ff7" name="Changes" comment="7th commit.">
+    <list default="true" id="a3bb323d-746b-418c-87e9-6f4ac91d2ff7" name="Changes" comment="8th Commit on 9th july 2023.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q7_ReverseInteger">
+  <component name="RunManager" selected="Application.Q35_SearchInsertPosition">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="LeetCode-Practice" />
@@ -67,15 +67,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q55_JumpGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q55_JumpGame" />
+    <configuration name="Q35_SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q35_SearchInsertPosition" />
       <module name="LeetCode-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q746_MinCostClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q746_MinCostClimbingStairs" />
+    <configuration name="Q55_JumpGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q55_JumpGame" />
       <module name="LeetCode-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q35_SearchInsertPosition" />
         <item itemvalue="Application.Q7_ReverseInteger" />
         <item itemvalue="Application.Q257_BinaryTreePaths" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Q55_JumpGame" />
-        <item itemvalue="Application.Q746_MinCostClimbingStairs" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687708457917</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="8th Commit on 9th july 2023.">
+      <created>1688898188774</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688898188774</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,7 +177,8 @@
     <MESSAGE value="5th commit." />
     <MESSAGE value="6th commit." />
     <MESSAGE value="7th commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="7th commit." />
+    <MESSAGE value="8th Commit on 9th july 2023." />
+    <option name="LAST_COMMIT_MESSAGE" value="8th Commit on 9th july 2023." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
